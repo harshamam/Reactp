@@ -1,0 +1,26 @@
+/* src/components/Banner.css */
+
+.banner {
+    background: linear-gradient(45deg, #007bff, #ff4c4c);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  .banner-text {
+    font-size: 48px;
+    margin: 0;
+    animation: bounce 1.5s infinite;
+  }
+  
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+  

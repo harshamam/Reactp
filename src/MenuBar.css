@@ -1,0 +1,39 @@
+/* src/components/MenuBar.css */
+
+.head{
+    background-color: black;
+}
+.menu-bar {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    background-color: #d13838;
+    
+  }
+  
+  .menu-bar li {
+    padding: 10px;
+    position: relative;
+  }
+  
+  .menu-bar a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .submenu {
+    display: none;
+    position: absolute;
+    background-color: #444;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menu-bar li:hover .submenu {
+    display: block;
+  }
+  
+  .submenu li {
+    padding: 5px 10px;
+  }
+  
