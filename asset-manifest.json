@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reactp.git/static/css/main.363fde57.css",
+    "main.js": "/Reactp.git/static/js/main.3bce378e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Reactp.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Reactp.git/index.html",
+    "main.363fde57.css.map": "/Reactp.git/static/css/main.363fde57.css.map",
+    "main.3bce378e.js.map": "/Reactp.git/static/js/main.3bce378e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Reactp.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.363fde57.css",
+    "static/js/main.3bce378e.js"
+  ]
+}
